@@ -28,4 +28,4 @@ $viewModel->getHtml();
 ```
 
 - - -
-Tested using PHP7.2 and MYSQL5.6
+Tested using PHP7.2
