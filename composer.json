@@ -1,0 +1,15 @@
+{
+    "name": "ryaan-anthony/simple-content-builder",
+    "description": "Simple content builder",
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "autoload": {
+        "psr-4": {
+            "RyaanAnthony\\ContentBuilder\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit -c tests/phpunit.xml"
+    }
+}
